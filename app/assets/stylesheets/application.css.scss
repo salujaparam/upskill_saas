@@ -33,22 +33,14 @@
      border-bottom: none;
  }
  
- .navbar-default .navbar-brand {
+ .navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a
+ {
      color: white;
+     &:hover{
+         color: white;
+         opacity: 0.7;
+     }
  }
- 
- .navbar-default .navbar-nav > li > a {
-     color: white;
- }
- 
-  .navbar-default .navbar-brand:hover {
-      opacity: 0.7;
-      color: white;
-  }
-  .navbar-default .navbar-nav > li > a:hover {
-      color: white;
-      opacity: 0.7;
-  }
  
  .home-callout {
      color: white;
