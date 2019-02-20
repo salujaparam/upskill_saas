@@ -5,7 +5,7 @@ with each other. There is a pro subscription plan and a
 basic subscription plan to the website.
 
 A developer can contact to the owner with the help of the
-conatact form which uses a mail-gun addon provided by 
+contact form which uses a mail-gun addon provided by 
 heroku which makes the mailing process happen.
 
 The app is made in a rails environment provided to us 
